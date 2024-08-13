@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Hass.io Add-ons by jcarlos001
+url: 'https://github.com/jcarlos001/home-assistant-addons'
+maintainer: Jose Carlos <jcarlos.s@gmail.com>
